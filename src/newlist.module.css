@@ -1,0 +1,7 @@
+.background{
+  width: 100vw;
+  height: 100vh;
+  background-image: url("./resources/backgrounds/pr2.jpg");
+  background-size: cover;
+  background-position: center;
+}
